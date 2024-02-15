@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Bingchat" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <!--<item name="colorPrimary">@color/black</item>-->
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="iconTint">@color/dark</item>
+        <item name="colorControlActivated">@color/dark</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="popupMenuStyle">@style/popup_menu_style</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="splashTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/background_white</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:navigationBarColor">@color/white</item>
+    </style>
+
+    <style name="conversationTheme" parent="Base.Theme.Bingchat">
+        <item name="android:statusBarColor">@color/colorNavLight</item>
+        <item name="android:navigationBarColor">@color/colorNavLight</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="colorControlHighlight">@color/deemDark</item>
+    </style>
+    <style name="MaterialAlertDialog" parent="ThemeOverlay.Material3.MaterialAlertDialog">
+        <item name="iconTint">@color/black</item>
+    </style>
+
+    <style name="popup_menu_style" parent="Widget.Material3.PopupMenu">
+        <item name="android:popupBackground">@color/violet</item>
+    </style>
+</resources>

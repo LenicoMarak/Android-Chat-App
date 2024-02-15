@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/editProfile"
+        android:title="Edit profile"
+        android:icon="@drawable/edit_image"
+        android:iconTint="?attr/iconTint"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/share_item"
+        android:title="Share"
+        android:icon="@drawable/baseline_share"
+        android:iconTint="?attr/iconTint"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/help_feedback_item"
+        android:title="Help &amp; feedback"
+        android:icon="@drawable/baseline_help"
+        android:iconTint="?attr/iconTint"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/settings_item"
+        android:title="Settings"
+        android:icon="@drawable/baseline_settings_24"
+        android:iconTint="?attr/iconTint"
+        app:showAsAction="ifRoom"/>
+
+</menu>

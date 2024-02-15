@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="searchbarcolor">#262730</color>
+    <color name="textcolor">#FFFFFFFF</color>
+    <color name="selectedItemColor">#27203d</color>
+    <color name="menuBar">#1e1c27</color>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TextMe</string>
+    <string name="passText">password</string>
+    <string name="emailText">email</string>
+    <string name="loginText">Login</string>
+    <string name="signupText">Signup</string>
+    <string name="confirmText">confirm password</string>
+    <string name="googleSignin">Continue with Google</string>
+    <string name="signinGoogle">Sign in with Goolge</string>
+    <string name="alreadyText">Already have account? go to login</string>
+    <string name="search">Search here</string>
+    <string name="logout">Logout</string>
+    <string name="background">Change Background</string>
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="groupTitle">This is a group</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="header_profile_details">Personalize your profile</string>
+    <string name="profile">Profile</string>
+    <string name="myname">Lenicomarak</string>
+    <string name="navigation_drawe_open">Open navigation drawer</string>
+    <string name="navigation_drawe_close">Close navigation drawer</string>
+    <string name="selectedCount">Selected: </string>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#2986cc</color>
+    <color name="black">#000000</color>
+    <color name="yellow">#f4c020</color>
+    <color name="dark">#15141a</color>
+    <color name="searchbarcolor">#d9d2e9</color>
+    <color name="deemDark">#555555</color>
+    <color name="red">#cc0000</color>
+    <color name="lightPink">#ead1dc</color>
+    <color name="colorNav">#292930</color>
+    <color name="colorNavLight">#fff6ff</color>
+    <color name="pink">#e41581</color>
+    <color name="green">#0fe909</color>
+    <color name="deemWhite">#999999</color>
+    <color name="dark2">#1c1c1d</color>
+    <color name="violet">#674ea7</color>
+    <color name="lightgreen">#10beac</color>
+    <color name="textcolor">#000000</color>
+    <color name="selectedItemColor">#d5a6bd</color>
+    <color name="menuBar">#d9d2e9</color>
+</resources>

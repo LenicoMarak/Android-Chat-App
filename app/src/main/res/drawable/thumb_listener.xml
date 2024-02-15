@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:gravity="fill"
+        android:drawable="@drawable/thumb_background"/>
+    <item
+        android:gravity="center"
+        android:drawable="@drawable/thumbs_icon" />
+</layer-list>
